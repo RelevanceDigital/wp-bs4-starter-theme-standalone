@@ -113,7 +113,7 @@ gulp.task('browser-sync', function() {
 // Proxy
 gulp.task('browser-sync', function() {
     browserSync.init({
-        proxy: "http://localhost-location.test/"
+        proxy: "http://wp-bs4-starter-theme-standalone.test/"
     });
 });
 

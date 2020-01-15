@@ -99,3 +99,4 @@ npm-debug.log
 # Repo specific things #
 ########################
 assets/
+gulpfile.js
