@@ -41,8 +41,6 @@ When running `gulp`, any changes to files in the `scss` folder will regenerate t
 
 To add your own scss files, add them to the `scss` folder without a `_` prefix.
 
-Only minimal underscores styles are imported but the original files are left here if you need to include anything else.
-
 ## JavaScript
 
 Adding or editing files in the `js` folder whilst running `gulp` will compile them to the `assets/js` folder.
