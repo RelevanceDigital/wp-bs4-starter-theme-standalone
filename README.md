@@ -116,7 +116,7 @@ Imagine the following:
 ``` 
 
 If the title element needs to be changed to a h3 or h4 etc the styling will break.  
-Either be less specific and just target the `.block-title` class or use a modifying class like `.block-title-lg` or utility class such as `font-family-serif` or `font-size-lg`.
+Either be less specific and just target the `.block-title` class or use a modifying class like `.block-title-lg` or utility classes such as `font-family-serif` or `font-size-lg`.
 
 ```
 .font-family-serif {
