@@ -16,7 +16,7 @@ Frontend developers can use it with dummy content and then pass it to a backend 
 
 - LAMP Stack ([Laragon](https://laragon.org/), [XAMPP](https://www.apachefriends.org/), [MAMP](https://www.mamp.info/) or similar)
 - node/npm
-- Gulp installed globally: `npm install -g gulp`
+- Gulp installed globally: `npm install --global gulp-cli`
  
 
 Getting Started
