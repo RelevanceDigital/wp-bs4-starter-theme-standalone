@@ -38,6 +38,7 @@ $copyright = "Copyright text added in the admin {year}";
 <script type='text/javascript' src='https://use.fontawesome.com/releases/v5.11.2/js/all.js'></script>
 <script type='text/javascript' src='assets/js/site.js'></script>
 <script type='text/javascript' src='assets/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='assets/js/focus-visible.js'></script>
 
 </body>
 </html>
