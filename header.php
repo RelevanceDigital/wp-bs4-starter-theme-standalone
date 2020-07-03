@@ -29,7 +29,7 @@ include "functions.php";
 <body data-spy="scroll" data-target="#my-navbar" data-offset="100">
 
 <div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
 
         <div class="nav-wrap">
             <div class="container">

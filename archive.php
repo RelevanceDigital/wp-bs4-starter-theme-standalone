@@ -16,7 +16,7 @@ include "header.php";
 ?>
 
     <div id="primary" class="content-area">
-        <main id="main" class="site-main container">
+        <main tabindex="-1" id="main" class="site-main container">
 
             <div class="row">
                 <?php //We include the same file 9 times here to generate some listings ?>

@@ -16,7 +16,7 @@ include "header.php";
 ?>
 
 <div id="primary" class="content-area">
-        <main id="main" class="site-main container">
+        <main tabindex="-1" id="main" class="site-main container">
 
 			<?php include 'template-parts/content-page.php'; ?>
 
