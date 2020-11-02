@@ -98,5 +98,5 @@ npm-debug.log
 
 # Repo specific things #
 ########################
-assets/
+#assets/
 #gulpfile.js
