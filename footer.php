@@ -33,8 +33,7 @@ $copyright = "Copyright text added in the admin {year}";
 <script type='text/javascript' src='assets/js/jquery.js'></script>
 <script type='text/javascript' src='assets/js/jquery-migrate.min.js'></script>
 
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 <script type='text/javascript' src='https://use.fontawesome.com/releases/v5.11.2/js/all.js'></script>
 <script type='text/javascript' src='assets/js/site.js'></script>
 <script type='text/javascript' src='assets/js/skip-link-focus-fix.js'></script>
